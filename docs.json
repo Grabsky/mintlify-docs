@@ -11,9 +11,11 @@
   "navigation": {
     "groups": [
       {
-        "group": "o serwerze",
+        "group": "O SERWERZE",
+        "icon": "circle-info",
         "pages": [
-          "o-serwerze/strona-glowna"
+          "o-serwerze/strona-glowna",
+          "o-serwerze/regulamin"
         ]
       }
     ]
