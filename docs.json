@@ -12,7 +12,6 @@
     "groups": [
       {
         "group": "O SERWERZE",
-        "icon": "circle-info",
         "pages": [
           "o-serwerze/strona-glowna",
           "o-serwerze/regulamin"
